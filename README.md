@@ -28,8 +28,10 @@ Tabular features in the dataset.
 |  3 | ISIC_0068279 | IP_6890425   | female |           45 | head/neck                       | unknown     | benign             |        0 |
 |  4 | ISIC_0074268 | IP_8723313   | female |           55 | upper extremity                 | unknown     | benign             |        0 |
 
-Exclusively using tabular features:
+### 5-fold-cv with tabular features:
 ![](images/tab-features-5-fold-cv.jpg)
+
+
 
 
 
